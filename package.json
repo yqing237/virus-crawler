@@ -9,9 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chromedriver": "^78.x",
+    "chromedriver": "^80.0.0",
     "colors": "^1.4.0",
     "fs": "0.0.1-security",
+    "log-timestamp": "^0.3.0",
     "selenium-webdriver": "^4.0.0-alpha.5",
     "util": "^0.12.1"
   }
